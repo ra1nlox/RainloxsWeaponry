@@ -1,0 +1,32 @@
+messages:
+  onEnable: "plugin rainlox's Weaponry is enabled"
+  onDisable: "plugin rainlox's Weaponry is disabled"
+  commands:
+    mainHand: "Main hand - "
+    offHand: "Off hand - "
+
+guns:
+  loaded: "LOADED"
+  unloaded: "UNLOADED"
+  names:
+    rifles:
+      rifle1: "Мушкет"
+      rifle2: "Петриналь"
+      rifle3: "Кулеврина"
+      rifle4: "Бердыш-ружьё"
+      rifle5: "Аркебуза"
+    pistols:
+      pistol1: "Пиздалет"
+      pistol2: "Мушкетон"
+      pistol3: "Ручная мортирка"
+  descriptions:
+    rifles:
+      rifle1: "Мушкет, самый слабый вид ружий"
+
+bullets:
+  names:
+    rifles: "Патрон для ружий"
+    pistols: "Патрон для пистолетов"
+  descriptions:
+    rifles: "Патрон для ружья, магическим образом она подходит к любому"
+    pistols: "Патрон для пистолета, каким то образом подходит к любому"

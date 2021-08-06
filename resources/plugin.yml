@@ -1,0 +1,11 @@
+name: rainloxs_Weaponry
+main: md.rainlox.weaponryPlugin.Main
+api-version: 1.13
+version: 1.0
+commands:
+  hands:
+    description: Show type of item in your hands
+    usage: /hands
+  load:
+    description: loads gun (only for staff)
+    usage: /load
